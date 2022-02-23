@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Marius and I am 18 years old.
 - 👀 I’m interested in sports, modern technology, health and programming.
-- 🌱 I’m currently learning mysql 
+- 🌱 I’m currently learning mySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Just write a mail to raborogit@gmail.com
 
