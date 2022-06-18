@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Marius and I am 18 years old. From October 2022, I will study computer science dual at the DHBW in Karlsruhe
+- 👋 Hi, my name is Marius and I am 18 years old. From October 2022, I like that will study computer science dual at the DHBW in Karlsruhe
 - 👀 I’m interested in sports, modern technology, health, programming and AI.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Leing
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me? Just write a mail to raborogit@gmail.com
 
 <!---
