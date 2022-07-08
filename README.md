@@ -1,4 +1,4 @@
-### Hi there, I´m Marius - aka Raboro 👋
+# Hi there, I´m Marius - aka Raboro 👋
 
 ## About me 
 - I´m 18 years old and graduated from high school, three months ago 🎓
@@ -12,8 +12,8 @@
 
 ## Connect with me
 
-[<img align="left" alt="Raboro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Raboro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
