@@ -56,7 +56,7 @@
 
 
 ## Resume
-[<img align="middle" src="https://github.com/Raboro/Raboro/blob/main/resume.png"/>][no_link]
+[<img align="center" src="https://github.com/Raboro/Raboro/blob/main/resume.png"/>][no_link]
 
 
 [website]: https://mariuswoerfel.netlify.app/
