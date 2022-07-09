@@ -3,7 +3,7 @@
 ## About me 
 - I´m 18 years old and graduated from high school, three months ago 🎓
 - I´m from Germany 🇩🇪 and live near karlsruhe
-- I´m going to study computer science 💻 in october at the DHBW Karlsruhe together with the company thingsTHINKING
+- I´m going to study computer science 💻 in october at the [DHBW Karlsruhe] together with the company [thingsTHINKING]
 - I’m interested 👀 in machine learning, AI, modern technology and health.
 - 🌱 I’m currently learning Machine Learning/AI.
 - 💞️ I’m looking to collaborate on Python projects.
@@ -58,6 +58,8 @@
 </details>
 
 
+[DHBW Karlsruhe]:https://www.karlsruhe.dhbw.de/startseite.html
+[thingsTHINKING]: https://www.semantha.de/
 [website]: https://mariuswoerfel.netlify.app/
 [linkedin]: https://www.linkedin.com/in/marius-woerfel-bb35191b5/
 [no_link]: https://github.com/Raboro
