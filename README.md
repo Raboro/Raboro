@@ -43,6 +43,11 @@
 
 <br />
 
+## Resume
+[<img align="center" src="https://github.com/Raboro/Raboro/blob/main/resume_raboro.png"/>][no_link]
+
+<br />
+
 ## Github Stats
 
 <details>
@@ -51,11 +56,6 @@
   <img align="left" alt="Raboro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raboro&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
-<br />
-
-## Resume
-[<img align="center" src="https://github.com/Raboro/Raboro/blob/main/resume_raboro.png"/>][no_link]
 
 
 [website]: https://mariuswoerfel.netlify.app/
