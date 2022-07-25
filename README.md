@@ -1,4 +1,4 @@
-# Hi there, I´m Marius - aka `Raboro` 👋
+# **Hi there, I´m Marius - aka `Raboro` 👋**
 
 ## About me 
 - I´m 18 years old and graduated from high school, three months ago 🎓
