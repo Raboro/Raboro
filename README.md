@@ -6,7 +6,7 @@
 - I´m going to study computer science 💻 in october at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**
 - I’m interested 👀 in machine learning, AI, modern technology and health
 - 🌱 I’m currently learning Java & 3D rendering
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python & Java projects
 - 📫 How to reach me? Just write a mail to **raborogit@gmail.com**
 
 
