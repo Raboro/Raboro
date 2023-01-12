@@ -1,21 +1,10 @@
 # **Hi there, I´m Marius - aka `Raboro` 👋**
 
 ## **About me** 
-- I´m 19 years old and graduated from high school, four months ago 🎓
-- I´m from Germany 🇩🇪 and live near karlsruhe
-- I´m going to study computer science 💻 in october at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**
+- I´m 19 years old and currently studying computer science at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**  🎓
+- I´m from Germany 🇩🇪 and live near Karlsruhe
 - I’m interested 👀 in machine learning, AI, modern technology
-- 🌱 I’m currently learning Java & 3D rendering
-- 💞️ I’m looking to collaborate on Python & Java projects
 - 📫 How to reach me? Just write a mail to **raborogit@gmail.com**
-
-
-## Connect with me
-
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ## Languages and Tools
 
@@ -43,11 +32,6 @@
 
 <br />
 
-## Resume
-[<img align="center" src="https://github.com/Raboro/Raboro/blob/main/resume_raboro.png"/>][no_link]
-
-<br />
-
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raboro)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,6 +42,4 @@
 
 [DHBW Karlsruhe]:https://www.karlsruhe.dhbw.de/startseite.html
 [thingsTHINKING]: https://www.semantha.de/
-[website]: https://mariuswoerfel.netlify.app/
-[linkedin]: https://www.linkedin.com/in/marius-woerfel-bb35191b5/
 [no_link]: https://github.com/Raboro
