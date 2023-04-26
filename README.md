@@ -3,7 +3,7 @@
 ## **About me** 
 - I´m 19 years old and currently studying computer science at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**  🎓
 - I´m from Germany 🇩🇪 and live near Karlsruhe
-- I’m interested 👀 in machine learning, AI, modern technology and Java
+- I’m interested 👀 in machine learning, AI, modern technology specially Java and Docker
 - How to reach me? Just write a mail to **raborogit@gmail.com**
 
 ## Languages and Tools
