@@ -1,9 +1,9 @@
 # **Hi there, I´m Marius - aka `Raboro` 👋**
 
 ## **About me** 
-- I´m 19 years old and currently studying computer science at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**  🎓
+- I´m 20 years old and currently studying computer science at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]**  🎓
 - I´m from Germany 🇩🇪 and live near Karlsruhe
-- I’m interested 👀 in machine learning, AI, modern technology specially Java and Docker
+- I’m interested 👀 in machine learning, AI, modern technology specially Java, Docker and Obsidian plugins
 - How to reach me? Just write a mail to **raborogit@gmail.com**
 
 ---
