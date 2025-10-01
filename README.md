@@ -1,7 +1,7 @@
 # **Hi there, I´m Marius - aka `Raboro` 👋**
 
 ## **About me** 
-- I´m 22 and currently studying computer science at the **[DHBW Karlsruhe]** together with the company **[thingsTHINKING]** part of **[Aleph Alpha]**
+- I´m 22 and a Junior Software Engineer @ **[Aleph Alpha]**
 - I´m from Germany 🇩🇪 and live near Karlsruhe
 - I’m interested 👀 in AI, modern technology specially Java, Docker and Obsidian plugins and Software Testing
 - How to reach me? Just write a mail to **raborogit@gmail.com**
